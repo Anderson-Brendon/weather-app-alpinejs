@@ -1,0 +1,1 @@
+aplicação simples com o propósito de aprender alpinejs e o uso de api
